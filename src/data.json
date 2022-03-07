@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "/img/img-1.webp",
+            "title": "Protine",
+            "description": "about this Products",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 19
+        }
+
+      
+    ]
+}
