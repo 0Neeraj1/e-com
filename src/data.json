@@ -2,11 +2,94 @@
     "products": [
         {
             "_id": "dress1",
-            "image": "/img/img-1.webp",
-            "title": "Protine",
-            "description": "about this Products",
+            "image": "/images/img-1.jpeg",
+            "title": "Myprotein Impact Whey Isolate, Strawberry Cream, 5.5 lb",
+            "description": "Contributes to the growth and maintenance of muscle mass Low fat and carbohydrate ",
             "availableSizes" : ["XL", "XXL"],
-            "price": 19
+            "price": 129.90
+        },
+
+        {
+            "_id": "dress2",
+            "image": "/images/img-2.jpeg",
+            "title": "MuscleBlaze Iso-Zero OP, Low Carb Chocolate, 4.4 lb",
+            "description": "The amino acid profile includes 13.87g of EAAs and 6.51g of BCAAs that fuel your muscles to ensure quicker recovery even after a strenuous workout session",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 99.9
+        },
+
+
+        {
+            "_id": "dress3",
+            "image": "/images/img-3.jpeg",
+            "title": "Isopure Zero Carb Protein Powder, Banana Cream, 3 lb",
+            "description": "Developing lean muscle is, undoubtedly, the most important fitness goal for most professional and novice builders. The more lean muscle you build, the better your physique appears and the better your body is able to function.",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 278.70
+        },
+
+
+        {
+            "_id": "dress4",
+            "image": "/images/img-4.jpeg",
+            "title": "Rule One R1 Protein, Chocolate Fudge, 5.9 lb",
+            "description": "Ultra Pure Whey Isolate/Hydrolysate Forumula ",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 117.09
+        },
+
+        {
+            "_id": "dress5",
+            "image": "/images/img-5.jpeg",
+            "title": "MuscleBlaze Raw Whey Isolate, Unflavoured, 4.4 lb",
+            "description": "MuscleBlaze Raw Whey Isolate, Unflavoured, 4.4 lb",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 69.90
+        },
+
+        {
+            "_id": "dress6",
+            "image": "/images/img-1.jpeg",
+            "title": "MuscleBlaze Biozyme Whey Isolate, Ice Cream Chocolate, 2.2 lb",
+            "description": "Comes with Enhanced absorption formula (EAF) that provides 50% higher protein absorption and 60% higher BCAA absorption when compared to other whey isolates",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 82.99
+        },
+
+        {
+            "_id": "dress7",
+            "image": "/images/img-7.jpeg",
+            "title": "MuscleBlaze MuscleBlaze Biozyme Whey Isolate, Ice Cream Chocolate, 2.2 lb",
+            "description": "Comes with Enhanced absorption formula (EAF) that provides 50% higher protein absorption and 60% higher BCAA absorption when compared to other whey isolates",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 69.99
+        },
+
+        {
+            "_id": "dress8",
+            "image": "/images/img-8.jpeg",
+            "title": "Dymatize Iso-100 Protein, Gourmet Chocolate, 5 lb",
+            "description": "It provides 5.5g of Branched Chain Amino Acids (BCAAs) per serving which helps in fast recovery post intense exercise sessions Provide a sufficient amount of protein for optimum muscle growth and volume",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 269.99
+        },
+
+        {
+            "_id": "dress9",
+            "image": "/images/img-9.jpeg",
+            "title": "MusclePharm Combat 100% Isolate, Vanilla Ice Cream, 5 lb",
+            "description": "Provides a full profile of muscle building amino acids",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 78.99
+        },
+
+        {
+            "_id": "dress10",
+            "image": "/images/img-10.jpeg",
+            "title": "Big Muscles Premium Gold Whey, Belgian Chocolate, 2.2 lb",
+            "description": "Advanced formulation combines two hard-hitting types of protein in one powerful blend i.e. ultra filtered Whey Protein Isolate and Whey Protein Concentrate Sourced from USA",
+            "availableSizes" : ["XL", "XXL"],
+            "price": 58.99
         }
 
       
